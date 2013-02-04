@@ -1,0 +1,5 @@
+name: WGDropFlags
+version: 0.2
+authors: [ mewin ]
+main: de.mewin.wgdf.WGDropFlagsPlugin
+depend: [ WorldGuard, WGCustomFlags ]
